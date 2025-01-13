@@ -9,6 +9,7 @@ for (let i = 0; i < num_of_buttons; i++) {
 }
 
 
+
 //detection of which key wass press by keydown (also we can use keypress)
 document.addEventListener("keydown",function(event){
     makesound(event.key);
