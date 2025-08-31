@@ -1,5 +1,3 @@
-Thank you for sharing your GitHub project link. Based on the contents of your repository, here's a professional `README.md` file tailored for your Drum Kit project:
-
 🥁 Drum Kit
 
 A simple and interactive web-based drum kit that allows users to play various drum sounds by clicking on buttons or pressing corresponding keys on the keyboard.
@@ -53,8 +51,3 @@ Drum-Kit-Starting-Files/
 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
-🙌 Acknowledgments
-
-* Inspired by various online tutorials and resources on web development.
-* Special thanks to the open-source community for providing valuable assets and guidance.
